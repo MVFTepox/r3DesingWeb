@@ -1,4 +1,4 @@
-import incon from "../assets/Mesa de trabajo 25100.jpg";
+import incon from "../assets/1.jpg";
 import { Icon } from "@iconify/react";
 
 export const Footer = () => {
