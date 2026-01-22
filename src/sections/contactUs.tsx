@@ -83,7 +83,7 @@ export const ContactUs = () => {
 
           {/* LADO DERECHO */}
           <form
-            action="https://formsubmit.co/TU_CORREO@gmail.com"
+            action="https://formsubmit.co/8713457990pepe@gmail.com"
             method="POST"
             encType="multipart/form-data"
             className="flex flex-col gap-4 bg-green-50 p-6 rounded-2xl border border-green-100"
