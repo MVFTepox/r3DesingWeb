@@ -1,4 +1,5 @@
 import "./App.css";
+import { Analytics } from "@vercel/analytics/react";
 
 import {
   Hero,
@@ -24,6 +25,7 @@ export default function App() {
       <div>
         <Footer />
       </div>
+      <Analytics />
     </>
   );
 }
